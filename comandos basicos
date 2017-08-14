@@ -1,0 +1,11 @@
+inicio: criar um packting json
+npm init
+nome do entry point: app.js
+
+Instalar o ExpressJS
+
+npm install express --save
+
+criar arquivo app.js
+
+e depois rodar no terminal chamado node app.js
